@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.irixsoft.veronica.debug",
+      "sha256_cert_fingerprints": [
+        "61:D8:66:F0:F5:DC:7D:CB:E9:B1:08:B0:2B:E2:95:E1:54:BB:51:31:1B:7D:8C:82:76:08:72:B6:0C:F7:D0:9E"
+      ]
+    }
+  }
+]
